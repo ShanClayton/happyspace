@@ -1,5 +1,5 @@
 import React from 'react'
-import { RiCustomerService, RiCustomerService2Fill } from 'react-icons/ri'
+import { RiCustomerService2Fill } from 'react-icons/ri'
 import {BiHappyBeaming} from 'react-icons/bi'
 
 const Search = () => {
