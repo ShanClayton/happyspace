@@ -23,7 +23,7 @@ const Search = () => {
                   <div className='flex flex-col lg:flex-row items-center text-center'>
                       <button><BiHappyBeaming  size={40}/></button>
                       <div>
-                          <h3 className='py-2' >Let Us Help You</h3>
+                          <h3 className='py-2' >We Can Help</h3>
                             <p className='py-1'>Let Happy Spaces handle your travel arrangements whether you stay at our units or with our partners!</p>
                       </div>
                   </div>
